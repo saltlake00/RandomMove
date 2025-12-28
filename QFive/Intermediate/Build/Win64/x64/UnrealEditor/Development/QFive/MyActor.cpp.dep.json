@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\documents\\unreal projects\\qfive\\source\\qfive\\myactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\documents\\unreal projects\\qfive\\intermediate\\build\\win64\\x64\\qfiveeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\documents\\unreal projects\\qfive\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\qfive\\definitions.qfive.h",
+            "c:\\users\\admin\\documents\\unreal projects\\qfive\\source\\qfive\\myactor.h",
+            "c:\\users\\admin\\documents\\unreal projects\\qfive\\intermediate\\build\\win64\\unrealeditor\\inc\\qfive\\uht\\myactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

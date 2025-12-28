@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "QFive",
+			"Path": "..\\Source\\QFive.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "QFiveEditor",
+			"Path": "..\\Source\\QFiveEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

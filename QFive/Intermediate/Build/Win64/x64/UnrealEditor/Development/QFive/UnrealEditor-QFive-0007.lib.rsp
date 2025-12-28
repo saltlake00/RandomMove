@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-QFive-0007.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Admin/Documents/Unreal Projects/QFive/Intermediate/Build/Win64/x64/QFiveEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Admin/Documents/Unreal Projects/QFive/Intermediate/Build/Win64/x64/UnrealEditor/Development/QFive/Module.QFive.gen.cpp.obj"
+"C:/Users/Admin/Documents/Unreal Projects/QFive/Intermediate/Build/Win64/x64/UnrealEditor/Development/QFive/MyActor.cpp.obj"
+"C:/Users/Admin/Documents/Unreal Projects/QFive/Intermediate/Build/Win64/x64/UnrealEditor/Development/QFive/MyActor2.cpp.obj"
+"C:/Users/Admin/Documents/Unreal Projects/QFive/Intermediate/Build/Win64/x64/UnrealEditor/Development/QFive/QFive.cpp.obj"
+"C:/Users/Admin/Documents/Unreal Projects/QFive/Intermediate/Build/Win64/x64/UnrealEditor/Development/QFive/PerModuleInline.gen.cpp.obj"
+"C:/Users/Admin/Documents/Unreal Projects/QFive/Intermediate/Build/Win64/x64/UnrealEditor/Development/QFive/Default.rc2.res"
+/OUT:"C:/Users/Admin/Documents/Unreal Projects/QFive/Intermediate/Build/Win64/x64/UnrealEditor/Development/QFive/UnrealEditor-QFive-0007.lib"

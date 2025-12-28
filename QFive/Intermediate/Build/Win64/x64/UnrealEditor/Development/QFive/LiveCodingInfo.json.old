@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.QFive.gen.cpp.obj": [
+			"MyActor.gen.cpp.obj",
+			"QFive.init.gen.cpp.obj"
+		]
+	}
+}
